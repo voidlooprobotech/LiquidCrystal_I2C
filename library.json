@@ -5,7 +5,7 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/""/LiquidCrystal_I2C.git"
+    "url": "https://github.com/voidlooprobotech/LiquidCrystal_I2C"
   },
   "frameworks": "arduino",
   "platforms":
